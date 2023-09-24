@@ -41,8 +41,8 @@ export const Booking = ({ tour, avgRating }) => {
       });
 
       const result = await res.json();
-      if (!res.ok) {
-        return alert(result.message);
+      if (res.ok) {
+        return alert("booking successfull");
       }
       navigate("/thank-you");
     } catch (err) {
