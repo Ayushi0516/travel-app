@@ -71,10 +71,11 @@ export const TourDetails = () => {
       });
 
       const result = await res.json();
-      if (!res.ok) {
-        return alert(result.message);
+      if (res.ok) {
+        // result.message
+        return alert("review submitted successfully");
       }
-      alert(result.message);
+      alert("review submitted successfully");
     } catch (err) {
       alert(err.message);
     }
