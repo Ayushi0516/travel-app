@@ -4,4 +4,4 @@ The Travel App is a web-based application built using modern web technologies an
 Whether you are a solo traveler, a group of friends, or a family, our app has something to offer for everyone.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,mongoDB,nodejs,express)](https://skillicons.dev
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,mongodb,nodejs,express,bootstrap,vercel,render)](https://skillicons.dev)
