@@ -12,3 +12,17 @@ Whether you are a solo traveler, a group of friends, or a family, our app has so
 * Flexible Booking Options: Choose from various booking options, including flexible dates, refundable rates, and cancellation policies to accommodate your changing plans.
 * User Registration and Authentication: Users can create accounts, log in, and maintain their profiles securely.
 * Travel Recommendations: Get personalized travel recommendations based on your preferences and previous trips.
+
+  ## Links
+  Backend Url:https://tourandtravel-backend.onrender.com/api/v1/
+  Frontend Url:https://tour-app-zeta.vercel.app
+
+ ## Usage
+Once the Travel App is up and running, you can create an account, log in, and start planning your trips. Refer to the application's user guide or documentation for detailed instructions on how to use each feature.
+
+  ## Snapshots
+
+ ## Contact
+  Thank you for using the Travel App! If you have any questions, encounter issues, or want to provide feedback, please don't hesitate to contact me. Happy travels!
+  [![My Skills](https://skillicons.dev/icons?i=linkedin,instagram)](https://skillicons.dev)
+  
