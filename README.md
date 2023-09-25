@@ -5,3 +5,9 @@ Whether you are a solo traveler, a group of friends, or a family, our app has so
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,mongodb,nodejs,express,bootstrap,vercel,render)](https://skillicons.dev)
+
+## Features
+* User-Friendly Interface: Our intuitive interface ensures that even first-time users can easily navigate the website.
+* Detailed Descriptions and Reviews: Get comprehensive information about accommodations and activities, including photos, amenities, and user reviews, helping you make informed choices.
+* Flexible Booking Options: Choose from various booking options, including flexible dates, refundable rates, and cancellation policies to accommodate your changing plans.
+* User Registration and Authentication: Users can create accounts, log in, and maintain their profiles securely.
